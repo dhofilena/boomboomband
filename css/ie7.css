@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.MusicEditor .control .label,
+.MusicEditor .control{ float:left; vertical-align:middle; line-height:30px;}
+
+.settings > li  {display:block; height:38px;}
+
+
+.settings > li .col {float:left; vertical-align:middle; line-height:30px; height:30px;}
+.settings > li .col .sliderbar  {margin-top:8px;}
+.settings > li .col select{
+	line-height:20px;
+	display:block;
+	width:100%;
+	height:30px;
+}
+.MusicEditor .control select {	
+	line-height:20px;
+	width:50%;
+	height:30px;
+}
+.settings > li .col select{
+	line-height:20px;
+	width:100%;
+	height:30px;
+}
+.topChords > ul.inline li{	float:left; vertical-align:middle;}
+.editor .soundsettings .sountrack select {
+	line-height:20px;
+	width:70%;
+	height:30px;
+	float:left; 
+	vertical-align:middle;
+}
+.editor .soundsettings .loadtrack input[type="file"]{ width:114px; height:37px;}
+
+.topChords > ul.inline li ul li:first-child {margin-top:5px;}
+.editor .soundsettings .loadtrack .loadbtn button {padding:5px 10px}
+
+.settings > li .col .btn button{
+	width:49.3%;
+}
+
+.topChords ul.inline li ul li {width: 95px;}

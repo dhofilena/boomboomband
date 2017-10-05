@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patterns>
+  <Pattern name="A1 1.mid" Weight="8" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A1 2.mid" Weight="4" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A2 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A2 2.mid" Weight="2" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A2 3.mid" Weight="2" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A4 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A4 2.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A4 3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A8 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A8 2.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A8 3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="B1 1.mid" Weight="8" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B1 2.mid" Weight="4" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B2 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B2 2.mid" Weight="2" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B2 3.mid" Weight="2" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B4 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B4 2.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B4 3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B8 1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B8 2.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B8 3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+</Patterns>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patterns>
+  <Pattern name="A1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A2.mid" Weight="9" RonamNumeralMask="0" PlaybackBarMask="post fill" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="A3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="A"/>
+  <Pattern name="B1.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="0" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B2.mid" Weight="9" RonamNumeralMask="0" PlaybackBarMask="post fill" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+  <Pattern name="B3.mid" Weight="5" RonamNumeralMask="0" PlaybackBarMask="bar 4 of 4" PlayBackBeatMask="0" ChordTypesMask="any" IntervalToNextMask="any interval" ChordDurationMask="0" SubstylesABMask="B"/>
+</Patterns>

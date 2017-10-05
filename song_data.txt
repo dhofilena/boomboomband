@@ -1,0 +1,246 @@
+
+04-07-2016 01:51:31
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:52:07
+BREEZIN =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 49 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 107
+
+04-07-2016 01:52:45
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+04-07-2016 01:53:05
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:54:06
+MEDROCK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:54:33
+JAZQUINT =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 24 Select 5  : 4 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:55:10
+BLZ128 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 18 Select 5  : 4 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:55:47
+FUNK1 =>  Select 1: 0 Select 2 : 37 Select 3 : 0 Select 4 : 27 Select 5  : 50 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 85
+
+04-07-2016 01:56:07
+BLUSHF_2 =>  Select 1: 0 Select 2 : 35 Select 3 : 4 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 01:56:22
+POPBALAD =>  Select 1: 0 Select 2 : 33 Select 3 : 5 Select 4 : 25 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 85
+
+04-07-2016 01:56:45
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 02:11:36
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 02:12:07
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 03:55:23
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 03:55:48
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 03:56:22
+JAZQUINT =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 24 Select 5  : 4 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-07-2016 04:11:25
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 07:54:29
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 07:55:14
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 07:55:46
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 07:56:20
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 08:01:03
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 10:18:04
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+12-07-2016 10:19:16
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:41:31
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:42:42
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:43:28
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:44:00
+JAZQUINT =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 24 Select 5  : 4 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:44:30
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:45:17
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:46:25
+FUNK1 =>  Select 1: 0 Select 2 : 37 Select 3 : 0 Select 4 : 27 Select 5  : 50 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 85
+
+13-07-2016 07:47:13
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:47:35
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:48:42
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:49:26
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:49:58
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:54:21
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:54:26
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+13-07-2016 07:55:30
+BLUSHF_2 =>  Select 1: 0 Select 2 : 35 Select 3 : 4 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:55:58
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+13-07-2016 07:56:30
+BLUSHF_2 =>  Select 1: 0 Select 2 : 35 Select 3 : 4 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-07-2016 11:52:02
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-07-2016 11:59:44
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+15-07-2016 02:30:26
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 31 Bass: 33 Piano 38 Guitar 54 Strings 63
+
+15-07-2016 05:47:46
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+15-07-2016 05:49:22
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+13-08-2016 06:06:34
+
+
+13-08-2016 06:06:42
+
+
+10-11-2016 03:28:56
+
+
+10-11-2016 03:29:08
+
+
+12-11-2016 08:28:41
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+12-11-2016 08:33:25
+MEDROCK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+18-11-2016 06:52:12
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:52:12
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:52:29
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:55:51
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:56:03
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:57:22
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 04:58:41
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 05:02:31
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+14-12-2016 05:09:04
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+16-12-2016 08:20:37
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+16-12-2016 08:20:58
+JAZQUINT =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 24 Select 5  : 4 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+16-12-2016 08:23:27
+FUNK1 =>  Select 1: 0 Select 2 : 37 Select 3 : 0 Select 4 : 27 Select 5  : 50 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 85
+
+16-12-2016 08:27:37
+FUNK1 =>  Select 1: 0 Select 2 : 37 Select 3 : 0 Select 4 : 27 Select 5  : 50 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 85
+
+18-12-2016 10:06:27
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+18-12-2016 10:08:10
+MEDROCK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 18 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+19-12-2016 07:12:06
+LITEROK2 =>  Select 1: 0 Select 2 : 33 Select 3 : 0 Select 4 : 27 Select 5  : 48 Drums: 127 Bass: 127 Piano 127 Guitar 127 Strings 127
+
+26-01-2017 06:25:23
+TOASTY =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 50 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 101
+
+26-01-2017 06:26:04
+BREEZIN =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 49 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 107
+
+08-02-2017 06:34:06
+BREEZIN =>  Select 1: 0 Select 2 : 36 Select 3 : 4 Select 4 : 28 Select 5  : 49 Drums: 107 Bass: 107 Piano 107 Guitar 107 Strings 107
+
+19-03-2017 05:55:10
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 79 Piano 127 Guitar 127 Strings 127
+
+01-05-2017 03:21:08
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+01-05-2017 03:21:16
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+30-05-2017 03:41:43
+
+
+30-05-2017 03:41:51
+
+
+03-10-2017 10:12:52
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+03-10-2017 10:13:37
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-10-2017 10:13:14
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+04-10-2017 10:14:12
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+05-10-2017 07:55:01
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127
+
+05-10-2017 07:56:26
+SOFTSWNG =>  Select 1: 0 Select 2 : 32 Select 3 : 0 Select 4 : 0 Select 5  : 0 Drums: 127 Bass: 107 Piano 127 Guitar 127 Strings 127

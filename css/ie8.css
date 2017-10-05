@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.settings li .col .btn button{
+	width:49.3%;
+}
+
+.topChords ul.inline li ul li {width: 95px;}
